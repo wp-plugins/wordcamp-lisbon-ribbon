@@ -3,7 +3,7 @@
 Plugin Name: WordCamp Lisboa Ribbon
 Plugin URI: http://2012.lisboa.wordcamp.org
 Description: WordCamp Lisboa 2012 Ribbon. Core foundation from David Gwyer's Plugin Options Starter Kit.
-Version: 1.0
+Version: 1.1
 Author: Filipe Varela
 Author URI: http://wp-portugal.com
 */
