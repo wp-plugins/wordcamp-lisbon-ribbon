@@ -4,7 +4,7 @@ Donate link: http://wp-portugal.com/
 Tags: ribbon, promo, wp-portugal, wordcamp, lisboa
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,3 +37,6 @@ Visit http://2012.lisboa.wordcamp.org for more details.
 
 = 1.0 =
 * Initial release.
+
+= 1.1 =
+* Fixed Plugin Settings Link.
