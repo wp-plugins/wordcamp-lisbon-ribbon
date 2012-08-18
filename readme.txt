@@ -35,8 +35,8 @@ Visit http://2012.lisboa.wordcamp.org for more details.
 
 == Changelog ==
 
-= 1.0 =
-* Initial release.
-
 = 1.1 =
 * Fixed Plugin Settings Link.
+
+= 1.0 =
+* Initial release.
