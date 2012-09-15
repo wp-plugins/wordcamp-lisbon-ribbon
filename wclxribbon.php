@@ -3,7 +3,7 @@
 Plugin Name: WordCamp Lisboa Ribbon
 Plugin URI: http://2012.lisboa.wordcamp.org
 Description: WordCamp Lisboa 2012 Ribbon. Core foundation from David Gwyer's Plugin Options Starter Kit.
-Version: 1.0
+Version: 1.2
 Author: Filipe Varela
 Author URI: http://wp-portugal.com
 */
@@ -135,6 +135,6 @@ function wclxribbon_ribbon() {
 	    $side = "left";
 	endif;
 
-	echo "<a target='_blank' href='http://2012.lisboa.wordcamp.org' class='wclx-ribbon'><img src='{$image}' alt='WordCamp Lisboa 2012' class='wclx-ribbon-image wclx-ribbon-image-$side' style='top: ".$top ."px;' /></a>";
+	echo "<a target='_blank' href='http://2012.lisboa.wordcamp.org' class='wclx-ribbon wclx-ribbon-$side' style='top: ".$top ."px;'><img src='{$image}' alt='WordCamp Lisboa 2012' class='wclx-ribbon-image' /></a>";
 }
 add_action('wp_footer', 'wclxribbon_ribbon');
